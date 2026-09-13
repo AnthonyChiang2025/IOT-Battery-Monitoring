@@ -42,7 +42,7 @@ dashboard.php
 
 ## Wokwi Simulation
 
-https://wokwi.com/projects/YOUR_PROJECT_ID
+https://wokwi.com/projects/474936305160841217
 
 ## Dashboard Features
 
